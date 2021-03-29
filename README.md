@@ -3,8 +3,11 @@ Danilo Gonçalves de Menezes
 
 --------------------------------
 São Paulo - SP
+
 Idade: 21 anos
+
 Nacionalidade: Brasileiro
+
 Celular: (11)98285-8675
 
 Email: danilogdev@gmail.com
@@ -49,6 +52,9 @@ Responsivo, API's.
   * Projeto Bradesco: Colaboração no Front-End no protótipo do projeto de anticorrupção interno. 
  
 
+
+
+
  
 * Versatilis - System Desenvolvedor Júnior Full – stack
 * MARÇO/2019 À JANEIRO/2020
@@ -57,16 +63,26 @@ Responsivo, API's.
 
 
 
+
+
+
 * Versatilis - System Desenvolvedor Júnior Full – stack
 * MARÇO/2019 À JANEIRO/2020
   * Tecnologias: C#, ASPNET, SqlServer, Views, Procedures, html5, css3, bootstrap, JavaScript.
   * Manutenção do maior sistema de gestão de clínicas do Brasil e criação de novas funcionalidades em webforms C# e desenvolvimento de Querys, Stored Procedures, Views, atuando como Full-Stack.
 
 
+
+
+
+
 * Seicho-no-ie:  - Desenvolvedor Estagiário
 * SETEMBRO/2017 À SETEMBRO/2018
   * Tecnologias: C#, AspNet, bootstrap, JavaScript, Html5, CSS3, Design Responsivo.
   * Criação de aplicações webforms consumindo serviços WCF e desenvolvendo o front-end destas aplicações com Boostrap e utilizando C# para Back- End, e consultas com SQLSERVER.
+
+
+
 
 
 
