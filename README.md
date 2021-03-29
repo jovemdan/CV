@@ -37,7 +37,7 @@ Email: danilogdev@gmail.com
 --------------------------------
 **Skills:**
 
-* Linguagens de Programação (Backend): C#
+* Back-end: C#
 * Front-end: Angular, HTML5, CSS3, BOOTSTRAP, Materialize, JavaScript, Design 
 Responsivo, API's.
 
