@@ -66,16 +66,6 @@ Responsivo, API's.
 
 
 
-* Versatilis - System Desenvolvedor Júnior Full – stack
-  * MARÇO/2019 À JANEIRO/2020
-  * Tecnologias: C#, ASPNET, SqlServer, Views, Procedures, html5, css3, bootstrap, JavaScript.
-  * Manutenção do maior sistema de gestão de clínicas do Brasil e criação de novas funcionalidades em webforms C# e desenvolvimento de Querys, Stored Procedures, Views, atuando como Full-Stack.
-
-
-
-
-
-
 * Seicho-no-ie:  - Desenvolvedor Estagiário
   * SETEMBRO/2017 À SETEMBRO/2018
   * Tecnologias: C#, AspNet, bootstrap, JavaScript, Html5, CSS3, Design Responsivo.
