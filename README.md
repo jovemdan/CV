@@ -50,7 +50,7 @@ Responsivo, API's.
   * Tecnologias: AspNet MVC, C#, .Net, JavaScript, HTML5 + CSS3, Sql Server, Bootstrap, JQUERY, TFS. 
   * Manutenção e criação de novas rotinas e funcionalidades no sistema interno da Tech Mahindra. Correção e criação de novas Stored Procedures
   * Projeto Bradesco: Colaboração no Front-End no protótipo do projeto de anticorrupção interno. 
- 
+ ===================
 
 
 
@@ -60,7 +60,7 @@ Responsivo, API's.
   * MARÇO/2019 À JANEIRO/2020
   * Tecnologias: C#, ASPNET, SqlServer, Views, Procedures, html5, css3, bootstrap, JavaScript.
   * Manutenção do maior sistema de gestão de clínicas do Brasil e criação de novas funcionalidades em webforms C# e desenvolvimento de Querys, Stored Procedures, Views, atuando como Full-Stack.
-
+===================
 
 
 
@@ -70,7 +70,7 @@ Responsivo, API's.
   * SETEMBRO/2017 À SETEMBRO/2018
   * Tecnologias: C#, AspNet, bootstrap, JavaScript, Html5, CSS3, Design Responsivo.
   * Criação de aplicações webforms consumindo serviços WCF e desenvolvendo o front-end destas aplicações com Boostrap e utilizando C# para Back- End, e consultas com SQLSERVER.
-
+===================
 
 
 
