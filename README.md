@@ -45,8 +45,17 @@ Responsivo, API's.
 
 **Experiências:**
 
-* Tech Mahindra - Desenvolvedor Pleno Full – stack
+
+* NAVA - Desenvolvedor Pleno Full – stack
   * JANEIRO/2020 até o momento
+  * Tecnologias: .NET 5, AspNet MVC, C#, .Net, JavaScript, HTML5 + CSS3, MongoDb, JQUERY, Git, Web Api. 
+
+  
+&nbsp;
+&nbsp;
+
+* Tech Mahindra - Desenvolvedor Pleno Full – stack
+  * JANEIRO/2020 até MAIO/2021
   * Tecnologias: AspNet MVC, C#, .Net, JavaScript, HTML5 + CSS3, Sql Server, Bootstrap, JQUERY, TFS. 
   * Manutenção e criação de novas rotinas e funcionalidades no sistema interno da Tech Mahindra. Correção e criação de novas Stored Procedures
   * Projeto Bradesco: Colaboração no Front-End no protótipo do projeto de anticorrupção interno. 
