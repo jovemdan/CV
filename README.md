@@ -46,8 +46,17 @@ Responsivo, API's.
 **Experiências:**
 
 
+* Guide Investimentos - Desenvolvedor Pleno Full – stack
+  * MAIO/2021 até o SETEMBRO/2021
+  * Tecnologias: .NET 5, Angular, C#, .Net, Web Api, JavaScript, TypeScript, MongoDb, SqlServer, Git. 
+
+  
+&nbsp;
+&nbsp;
+
+
 * NAVA - Desenvolvedor Pleno Full – stack
-  * JANEIRO/2020 até o momento
+  * MAIO/2021 até o SETEMBRO/2021
   * Tecnologias: .NET 5, AspNet MVC, C#, .Net, JavaScript, HTML5 + CSS3, MongoDb, JQUERY, Git, Web Api. 
 
   
