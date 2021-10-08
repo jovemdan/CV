@@ -28,11 +28,14 @@ Email: danilogdev@gmail.com
 
 **Cursos Online:**
 
+* Balta.Io - Criando Apis Data Driven com .Net e EF
+* Rocketseat - Discover
+* Udemy - Full-Stack com .NET 5 Web API, Angular 11, Entity Framework Core e Identity
+* Udemy - Full-Stack com Asp.NET Core 2.2 Web API, Angular 7, Entity Framework Core 2.2 e Asp.NET Core Identity
+* Udemy - Curso Full-Stack com Asp.NET Web API 2 e Javascript + SQL (7 horas).
 * Udemy – ASP .NET CORE MVC (6 horas).
 * Udemy – Curso Linguagem de programação C# - Intermediário (6 horas).
-* Udemy - Curso Full-Stack com Asp.NET Web API 2 e Javascript + SQL (7 horas).
-* Udemy - Full-Stack com Asp.NET Core 2.2 Web API, Angular 7, Entity Framework Core 2.2 e Asp.NET Core Identity
-* Udemy - Full-Stack com .NET 5 Web API, Angular 11, Entity Framework Core e Identity
+
 
 --------------------------------
 **Skills:**
@@ -46,8 +49,8 @@ Email: danilogdev@gmail.com
 
 
 * Guide Investimentos - Desenvolvedor Pleno Full – stack
-  * MAIO/2021 até o SETEMBRO/2021
-  * Tecnologias: .NET 5, Angular, C#, .Net, Web Api, JavaScript, TypeScript, MongoDb, SqlServer, Git. 
+  * MAIO/2021 até o momento
+  * Tecnologias: .NET 5, C#, Web Api, Angular, JavaScript, TypeScript, MongoDb, SqlServer, Git. 
 
   
 &nbsp;
