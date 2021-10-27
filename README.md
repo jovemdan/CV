@@ -41,7 +41,7 @@ Email: danilogdev@gmail.com
 **Skills:**
 
 * Back-end: .Net
-* Front-end: Angular, React, JavaScript, TypeScript, HTML5, CSS3
+* Front-end: Angular, React, Next, JavaScript, TypeScript, HTML5, CSS3
 
 --------------------------------
 
