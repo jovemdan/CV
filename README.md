@@ -95,4 +95,3 @@ Email: danilogdev@gmail.com
   * Tecnologias: C#, AspNet, bootstrap, JavaScript, Html5, CSS3, Design Responsivo.
   * Manutenção do sistema b2b crm da Oxyon, usando C#.
 
-
