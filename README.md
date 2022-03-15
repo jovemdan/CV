@@ -28,8 +28,8 @@ Email: danilogdev@gmail.com
 
 **Cursos Online:**
 
-* Rocketseat - Discover
 * Rocketseat - Ignite ReactJs
+* Rocketseat - Discover
 * Balta.Io - Criando Apis Data Driven com .Net e EF
 * Udemy - Full-Stack com .NET 5 Web API, Angular 11, Entity Framework Core e Identity
 * Udemy - Full-Stack com Asp.NET Core 2.2 Web API, Angular 7, Entity Framework Core 2.2 e Asp.NET Core Identity
