@@ -28,8 +28,9 @@ Email: danilogdev@gmail.com
 
 **Cursos Online:**
 
-* Balta.Io - Criando Apis Data Driven com .Net e EF
 * Rocketseat - Discover
+* Rocketseat - Ignite ReactJs
+* Balta.Io - Criando Apis Data Driven com .Net e EF
 * Udemy - Full-Stack com .NET 5 Web API, Angular 11, Entity Framework Core e Identity
 * Udemy - Full-Stack com Asp.NET Core 2.2 Web API, Angular 7, Entity Framework Core 2.2 e Asp.NET Core Identity
 * Udemy - Curso Full-Stack com Asp.NET Web API 2 e Javascript + SQL (7 horas).
