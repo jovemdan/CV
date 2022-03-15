@@ -50,7 +50,7 @@ Email: danilogdev@gmail.com
 
 
 * Guide Investimentos - Desenvolvedor Pleno Full – stack
-  * MAIO/2021 até o momento
+  * SETEMBRO/2021 até o momento
   * Tecnologias: .NET 5, C#, Web Api, Angular, JavaScript, TypeScript, MongoDb, SqlServer, Git. 
 
   
